@@ -17,7 +17,7 @@
 | [Dual Colour OLED Display (128x64, Yellow and Blue)](https://core-electronics.com.au/dual-colour-oled-display-128x64-yellow-and-blue.html) | The display of the Moonboy | 1 | $4.97 | $4.97 | [Core Electronics](https://core-electronics.com.au/dual-colour-oled-display-128x64-yellow-and-blue.html) |
 | [Seeed Studio XIAO ESP32-C3](https://core-electronics.com.au/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface.html) | The computer | 1 | $7.44 | $7.44 | [Core Electronics](https://core-electronics.com.au/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface.html) |
 | **Parts subtotal** | — | — | — | **$34.72** | — |
-| **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$39.72** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$34.72** | — |
 
-**$9.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
