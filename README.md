@@ -10,7 +10,8 @@ An image of the PCB when i routed all the wires and added the images.
 
 An image of the schematic.
 
-<img width="1920" height="1159" alt="Screenshot 2026-10-10 183449" src="https://github.com/user-attachments/assets/c214145b-f51b-43bc-b5a1-42c557f24511" />
+<img width="1486" height="1039" alt="Screenshot 2026-10-11 214854" src="https://github.com/user-attachments/assets/4cbc6997-0d96-4afe-946f-faeb00526441" />
+
 
 The front of the PCB in 3D viewer.
 
