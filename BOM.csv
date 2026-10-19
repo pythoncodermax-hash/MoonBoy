@@ -1,11 +1,6 @@
-Here is my bill of materials
-item, price, quantity
-1. custom pcb, $40 aud, 1
-2. XIAO esp32 C3, $10 AUD, 1
-3. buttons,2, free i have some
-4. mpu6050, 1, $4.60 AUD
-5. Oled screen, 1, $7.60 AUD
-6. DHT11 environment sensor, 1, $1.40 AUD
-
-Total, $63.60 AUD
-It is over budget but i will pay the difference.
+Item,Qty,Supplier,Cost/item,Total Cost,link
+PCB,1,JLCPCB,$40.00,$40.00,https://jlcpcb.com/
+MPU-6050 Module 3 Axis Gyroscope + Accelerometer,1,core electronics,$3.21,$3.21,https://core-electronics.com.au/mpu-6050-module-3-axis-gyroscope-acce-lerometer.html
+"Dual Colour OLED Display (128x64, Yellow and Blue)",1,Core Electronics,$4.97,$4.97,https://core-electronics.com.au/dual-colour-oled-display-128x64-yellow-and-blue.html
+Seeed Studio XIAO ESP32-C3,1,Core Electronics,$2.50,$2.50,https://core-electronics.com.au/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface.html
+Estimated total shipping,1,,,$0.00,
