@@ -1,5 +1,7 @@
 # MoonBoy
-Hardware
+Description:
+My Moonboy project is my version of the week 1 starbie project. It is designed to be like a  Tamagotchi,. The main difference with my one is the design of the pcb as it is meant to look like a weird gaming controller but it more looks like a castle. The Moonboy has two buttons which are used for control, a oled screen, a gyroscope/accelerometer unit and a environment sensor. This was the first time i had designed a fully custom pcb and created silkscreen art which was just images of things i like. 
+
 
 <img width="1563" height="1052" alt="Screenshot 2026-10-10 183348" src="https://github.com/user-attachments/assets/f80ca192-8eff-44cb-af57-bd1252eb137c" />
 
